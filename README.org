@@ -1,3 +1,8 @@
+This project is aimed at providing access to PACs for resource-contrained settings. The idea is is to host ORTHANC and OHIF on AWS.
+
+We welcome contributions.
+
+Thank you. 
 
 * Docker Compose File for OHIF with ORTHANC
 
